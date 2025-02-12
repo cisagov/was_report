@@ -1,9 +1,9 @@
-# skeleton-python-library #
+# was_report #
 
-[![GitHub Build Status](https://github.com/cisagov/skeleton-python-library/workflows/build/badge.svg)](https://github.com/cisagov/skeleton-python-library/actions)
-[![CodeQL](https://github.com/cisagov/skeleton-python-library/workflows/CodeQL/badge.svg)](https://github.com/cisagov/skeleton-python-library/actions/workflows/codeql-analysis.yml)
-[![Coverage Status](https://coveralls.io/repos/github/cisagov/skeleton-python-library/badge.svg?branch=develop)](https://coveralls.io/github/cisagov/skeleton-python-library?branch=develop)
-[![Known Vulnerabilities](https://snyk.io/test/github/cisagov/skeleton-python-library/develop/badge.svg)](https://snyk.io/test/github/cisagov/skeleton-python-library)
+[![GitHub Build Status](https://github.com/cisagov/was_report/workflows/build/badge.svg)](https://github.com/cisagov/was_report/actions)
+[![CodeQL](https://github.com/cisagov/was_report/workflows/CodeQL/badge.svg)](https://github.com/cisagov/was_report/actions/workflows/codeql-analysis.yml)
+[![Coverage Status](https://coveralls.io/repos/github/cisagov/was_report/badge.svg?branch=develop)](https://coveralls.io/github/cisagov/was_report?branch=develop)
+[![Known Vulnerabilities](https://snyk.io/test/github/cisagov/was_report/develop/badge.svg)](https://snyk.io/test/github/cisagov/was_report)
 
 This is a generic skeleton project that can be used to quickly get a
 new [cisagov](https://github.com/cisagov) Python library GitHub
