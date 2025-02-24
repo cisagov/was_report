@@ -1,3 +1,36 @@
 # Note: Add any additional requirements to setup.py's install_requires field
 --editable .
+
+certifi==2023.11.17
+charset-normalizer==3.3.2
+configparser
+customtkinter
+datetime
+defusedxml
+docker==7.0.0
+docopt
+et-xmlfile==1.1.0
+idna==3.6
+Lib
+lxml<5
+matplotlib
+numpy
+openpyxl==3.1.2
+packaging==23.2
+pandas
+pdfrw>=0.4
+pikepdf
+Pillow
+pyarrow
+pymongo
+pypdf
+PyPDF4
+pystache
+python-docx
+pytz
+qualysapi==5.1.0
+requests==2.31.0
+seaborn
+tqdm
+urllib3==2.1.0
 wheel
