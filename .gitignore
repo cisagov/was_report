@@ -10,3 +10,6 @@ __pycache__
 .python-version
 *.egg-info
 dist
+
+## MacOS ##
+.DS_Store
