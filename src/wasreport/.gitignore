@@ -1,0 +1,3 @@
+.docker_temp_*
+.dockerignore
+state_region_csa.json
